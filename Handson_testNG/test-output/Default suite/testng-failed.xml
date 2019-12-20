@@ -5,7 +5,7 @@
     <classes>
       <class name="phpTravels.MainProject">
         <methods>
-          <include name="Other"/>
+          <include name="Login"/>
           <include name="logout"/>
           <include name="HomePage"/>
         </methods>
